@@ -1,6 +1,6 @@
 
-# Hey there! 👋 <br/>
-I'm **Hemant Kumar**, a code artisan and digital dreamweaver. With a palette of Python, Flutter, and a sprinkle of deep learning magic, I sculpt UI experiences. Join me on this byte-sized journey through code and creativity. 🚀✨
+# Hey there! 👋 <br>
+I'm **Hemant Kumar**, Software Engineer specializing in Python, Flutter, HTML, Node.js, JavaScript, Dart, Java, CSS, React.js, and UI development in Qt and ElectronJS. Deep Learning enthusiast with expertise in PyTorch, TensorFlow, Keras, and ONNX. Actively contributing to innovative projects and exploring the boundaries of technology. 🚀✨
 
 
 🔭 Currently crafting code and creativity<br>
