@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%20there%20I'm%20Hemant%20&width=850&height=250)](https://github.com/Akshay090/svg-banners)
 # Hey there! 👋 <br>
-I'm **Hemant Kumar**, Software Engineer specializing in Python, Flutter, React.js, and UI development in Qt. Deep Learning expertise in PyTorch, TensorFlow, Keras, and ONNX. Actively contributing to innovative projects and exploring the boundaries of technology. 🚀✨
+I'm **Hemant Kumar**, Deep Learning expertise in PyTorch, TensorFlow, Keras, and ONNX. Specializing in Python, Flutter, React.js, and UI development in Qt. Actively contributing to innovative projects and exploring the boundaries of technology. 🚀✨
 
 
 🔭 Currently crafting code and creativity<br>
