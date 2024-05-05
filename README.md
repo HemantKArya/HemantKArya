@@ -1,12 +1,12 @@
 # Hey there! 👋 <br>
-I'm **Hemant Kumar**, Deep Learning expertise in PyTorch, TensorFlow, Keras, and ONNX. Specializing in Python, Flutter, React.js(MobX/Redux), and UI development in Qt. Actively contributing to innovative projects and exploring the boundaries of technology. 🚀✨
 
+I'm a passionate AI/App/Web Developer 💻🧠, building innovative solutions with:
 
-🔭 Currently crafting code and creativity<br>
-👯 Open to collaborations and cool projects<br>
-🤝 Seeking assistance in pushing boundaries<br>
-🌱 Always learning, currently diving into new tech<br>
-💬 Let's chat about anything code or design<br>
+Deep Learning: TensorFlow, PyTorch, Keras for magic ✨
+Mobile Development: QT6 for cross-platform elegance 📱
+Flutter: Bloc for state management 🎨
+Web Development: ReactJS & MobX for responsive magic 🌎
+Always learning, building, and exploring new tech horizons 🌌. Feel free to check out my projects and connect with me! 🤝
 
 
 
