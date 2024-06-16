@@ -1,6 +1,6 @@
 # Hey there! 👋 <br>
 
-I'm a passionate AI/App/Web Developer 💻🧠, building innovative solutions with:<br/>
+I'm a passionate AI/App/Web Developer 💻, building innovative solutions with:<br/>
 
 Deep Learning: TensorFlow, PyTorch, Keras for magic ✨<br/>
 Mobile Development: QT6 for cross-platform elegance 📱<br/>
