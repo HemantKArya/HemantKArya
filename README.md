@@ -7,6 +7,7 @@ Mobile Development: Flutter and QT6 for cross-platform elegance 📱<br/>
 Web Development: ReactJS & MobX for responsive magic 🌎<br/><br/>
 Always learning, building, and exploring new tech horizons 🌌. Feel free to check out my projects and connect with me! 🤝<br/>
 
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,pytorch,c,anaconda,androidstudio,azure,bash,bootstrap,cpp,css,dart,django,docker,figma,git,flask,flutter,gradle,graphql,gtk,html,java,js,kali,kubernetes,linux,matlab,maven,mongodb,mysql,nodejs,opencv,py,qt,react,rust,sklearn,selenium,tensorflow&perline=10)]([https://skillicons.dev](https://github.com/HemantKArya?tab=repositories))
 
 
 
