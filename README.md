@@ -3,9 +3,9 @@
 I'm a skilled AI, Mobile, and Web Developer focused on building innovative and practical solutions. My expertise lies in leveraging cutting-edge technologies to create scalable and efficient applications.
 
 🚀 Technical Skills<br>
-AI & Machine Learning✨: Expertise in TensorFlow, PyTorch, and Keras for developing advanced deep learning and generative AI models.<br>
-Mobile Development📱    : Proficient in Flutter and Qt6, delivering seamless cross-platform mobile applications.<br>
-Web Development💻      : Strong command of ReactJS and MobX for crafting responsive and dynamic web applications.<br><br>
+✨ AI & Machine Learning : Expertise in TensorFlow, PyTorch, and Keras for developing advanced deep learning and generative AI models.<br>
+📱  Mobile Development     : Proficient in Flutter and Qt6, delivering seamless cross-platform mobile applications.<br>
+💻 Web Development       : Strong command of ReactJS and MobX for crafting responsive and dynamic web applications.<br><br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,pytorch,c,anaconda,androidstudio,azure,bash,bootstrap,cpp,css,dart,django,docker,figma,git,flask,flutter,gradle,graphql,gtk,html,java,js,kali,kubernetes,linux,matlab,maven,mongodb,mysql,nodejs,opencv,py,qt,react,rust,sklearn,selenium,tensorflow&perline=10)]([https://skillicons.dev](https://github.com/HemantKArya?tab=repositories))
