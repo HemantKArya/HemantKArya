@@ -1,10 +1,10 @@
 
 ## 👋 Hi,
 
-AI, Cross-Platform App, and Web Developer. I build scalable solutions with cutting-edge tech.
+I'm AI, Cross-Platform App, and Web Developer.
 
 ### 🛠️ Skills
-- **AI/ML**: TensorFlow, PyTorch, Keras, ONNX
+- **AI/ML**: TensorFlow, PyTorch, Keras, ONNX, Python
 - **Mobile/Desktop**: Flutter, Qt6, Kotlin, Rust
 - **Web**: ReactJS, MobX
 
